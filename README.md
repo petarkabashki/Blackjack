@@ -1,4 +1,4 @@
-# Blackjack table by
+# Blackjack
 
 The solution contains uni-directional dataflow implementation with a custom store, reducers and components.
 It is inspired by React/Redux, but is completely hand-written.
